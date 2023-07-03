@@ -1,7 +1,5 @@
 package myapp;
 
-public class Cat {
+public class Dog {
     private String name;
-
-
 }
